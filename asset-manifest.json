@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Momentum/static/css/main.f0dbe4a8.chunk.css",
+    "main.js": "/Momentum/static/js/main.522c16ff.chunk.js",
+    "main.js.map": "/Momentum/static/js/main.522c16ff.chunk.js.map",
+    "runtime-main.js": "/Momentum/static/js/runtime-main.dc3b08e6.js",
+    "runtime-main.js.map": "/Momentum/static/js/runtime-main.dc3b08e6.js.map",
+    "static/js/2.a9f5af98.chunk.js": "/Momentum/static/js/2.a9f5af98.chunk.js",
+    "static/js/2.a9f5af98.chunk.js.map": "/Momentum/static/js/2.a9f5af98.chunk.js.map",
+    "index.html": "/Momentum/index.html",
+    "precache-manifest.03eb703ff11a25ab18c5a01741b57f48.js": "/Momentum/precache-manifest.03eb703ff11a25ab18c5a01741b57f48.js",
+    "service-worker.js": "/Momentum/service-worker.js",
+    "static/css/main.f0dbe4a8.chunk.css.map": "/Momentum/static/css/main.f0dbe4a8.chunk.css.map",
+    "static/js/2.a9f5af98.chunk.js.LICENSE.txt": "/Momentum/static/js/2.a9f5af98.chunk.js.LICENSE.txt",
+    "static/media/01-full.jpg": "/Momentum/static/media/01-full.f8648487.jpg",
+    "static/media/01-thumbnail.jpg": "/Momentum/static/media/01-thumbnail.eda45981.jpg",
+    "static/media/02-thumbnail.jpg": "/Momentum/static/media/02-thumbnail.e52270b3.jpg",
+    "static/media/03-thumbnail.jpg": "/Momentum/static/media/03-thumbnail.09c41872.jpg",
+    "static/media/04-thumbnail.jpg": "/Momentum/static/media/04-thumbnail.80c8ff5c.jpg",
+    "static/media/05-thumbnail.jpg": "/Momentum/static/media/05-thumbnail.68d8d949.jpg",
+    "static/media/06-thumbnail.jpg": "/Momentum/static/media/06-thumbnail.20456fff.jpg",
+    "static/media/1.jpg": "/Momentum/static/media/1.e0b34f6f.jpg",
+    "static/media/2.jpg": "/Momentum/static/media/2.cc41e47b.jpg",
+    "static/media/3.jpg": "/Momentum/static/media/3.2df43e35.jpg",
+    "static/media/dog.png": "/Momentum/static/media/dog.1780bb1a.png",
+    "static/media/styles.css": "/Momentum/static/media/map-image.f40ed5b1.png",
+    "static/media/kaka.jpg": "/Momentum/static/media/kaka.cb88f274.jpg",
+    "static/media/logo.svg": "/Momentum/static/media/logo.5d5d9eef.svg",
+    "static/media/promodIndia.jpg": "/Momentum/static/media/promodIndia.ff23e719.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc3b08e6.js",
+    "static/js/2.a9f5af98.chunk.js",
+    "static/css/main.f0dbe4a8.chunk.css",
+    "static/js/main.522c16ff.chunk.js"
+  ]
+}
