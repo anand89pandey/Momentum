@@ -8,7 +8,7 @@ function Footer() {
                 <div className="row align-items-center">
                     <div className="col-lg-4 text-lg-left"><h2>Created by Anand</h2></div>
                     <div className="col-lg-4 my-3 my-lg-0">
-                        <a className="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a><a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a><a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+                        <a className="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a><a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a><a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/anand-pandey-944b7574/"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                     
                 </div>
