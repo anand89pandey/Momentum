@@ -127,7 +127,7 @@
   }
   
   .ril__caption {
-    bottom: 0;
+    bottom: 10;
     max-height: 150px;
     overflow: auto;
     text-align: center;
