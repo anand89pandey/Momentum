@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.whats-app {
+  position: fixed;
+  top: 80%;
+  width: 50px;
+  height: 50px;
+  bottom: 10px;
+
+  color: #25d366;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 60px;
+
+  right: 15px;
+  z-index: 100;
+}

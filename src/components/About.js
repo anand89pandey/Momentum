@@ -1,9 +1,5 @@
 import React from 'react'
-import dog from '../assets/img/dog.png'
-import one from '../assets/img/about/1.jpg'
-import two from '../assets/img/about/2.jpg'
-import three from '../assets/img/about/3.jpg'
-import four from '../assets/img/about/4.jpg'
+import WhatsApp from './WhatsApp'
 
 function About() {
     return(
@@ -11,57 +7,35 @@ function About() {
             <section className="page-section" id="about">
             <div className="container">
                 <div className="text-center">
-                    <h2 className="section-heading text-uppercase">About</h2>
-                    <h3 className="section-subheading text-muted">We have a story</h3>
+                    <h2 className="section-heading text-uppercase" style={{color: 'blue', fontWeight: 'bold'}}>About Us</h2> 
                 </div>
-                <ul className="timeline">
-                    <li>
-                        <div className="timeline-image"><img className="rounded-circle img-fluid" src={one} alt="" /></div>
-                        <div className="timeline-panel">
-                            <div className="timeline-heading">
-                                <h4>2009-2011</h4>
-                                <h4 className="subheading">Our Humble Beginnings</h4>
-                            </div>
-                            <div className="timeline-body"><p className="text-muted"></p></div>
-                        </div>
-                    </li>
-                    <li className="timeline-inverted">
-                        <div className="timeline-image"><img className="rounded-circle img-fluid" src={two} alt="" /></div>
-                        <div className="timeline-panel">
-                            <div className="timeline-heading">
-                                <h4>March 2011</h4>
-                                <h4 className="subheading">An Agency is Born</h4>
-                            </div>
-                            <div className="timeline-body"><p className="text-muted"></p></div>
-                        </div>
-                    </li>
-                    <li>
-                        <div className="timeline-image"><img className="rounded-circle img-fluid" src={three} alt="" /></div>
-                        <div className="timeline-panel">
-                            <div className="timeline-heading">
-                                <h4>December 2012</h4>
-                                <h4 className="subheading">Transition to Full Service</h4>
-                            </div>
-                            <div className="timeline-body"><p className="text-muted"></p></div>
-                        </div>
-                    </li>
-                    <li className="timeline-inverted">
-                        <div className="timeline-image"><img className="rounded-circle img-fluid" src={four} alt="" /></div>
-                        <div className="timeline-panel">
-                            <div className="timeline-heading">
-                                <h4>July 2014</h4>
-                                <h4 className="subheading">Phase Two Expansion</h4>
-                            </div>
-                            <div className="timeline-body"><p className="text-muted"></p></div>
-                        </div>
-                    </li>
-                    <li className="timeline-inverted">
-                        <div className="timeline-image">
-                            <h4>Be Part<br />Of Our<br />Story!</h4>
-                        </div>
-                    </li>
-                </ul>
+                <div>
+                    <h2 style={{fontWeight: 'bold'}}>Company profile</h2> <br />
+                    <p1>We are PROMOD INDIA, an export house of Apparels & Fashion accessories.</p1>
+                    <p2>We are serving the various fashion brands and retail in USA and European countries with our
+                        customer's satisfaction.
+                    </p2> <br /> <br/>
+                    <h2 style={{fontWeight: 'bold'}}>Our Motto</h2> 
+                    <ul>
+                    To satify the customer requirements <br/>
+                    To fulfill the supply committments within the stipulated time-frame <br />
+                    To maitain the quality standards and supply quality merchandise <br />
+                    </ul> <br />
+                    <h2 style={{fontWeight: 'bold'}}>Machinery</h2>
+    <p>Sweing maching{' '}{'-'}{' '}100 Nos</p> 
+                    <p>Overlock{' '}{'-'}{' '}008 Nos</p> 
+                    <p>Flat Lock{' '}{'-'}{' '}002 Nos</p> 
+                    <p>Pressing Stands{' '}{'-'}{' '}015 Nos</p> 
+                    <p>In house paint</p> <br />
+                    <h2 style={{fontWeight: 'bold'}}>Our Banker</h2>
+    <p><p1 style={{fontWeight:'bold'}}>BENEFICIARY BANK</p1> <p1>{'-'}{' '}PUNJAB NATIONAL BANK</p1></p>
+    <p><p1 style={{fontWeight:'bold'}}>BENEFICIARY ACCOUNT NUMBER</p1> <p1>{'-'}{' '}0893002100025554</p1></p>
+    <p><p1 style={{fontWeight:'bold'}}>BENEFICIARY SWIFT CODE</p1> <p1>{'-'}{' '}PUNBINBBMBD</p1></p>
+    <p><p1 style={{fontWeight:'bold'}}>BENEFICIARY AD CODE</p1> <p1>{'-'}{' '}0303907-2780007</p1></p>
+    <p><p1 style={{fontWeight:'bold'}}>BENEFICIARY IFSC CODE</p1> <p1>{'-'}{' '}PUNB0089300</p1></p>
+                </div>
             </div>
+            <WhatsApp />
         </section>
         </div>
     )

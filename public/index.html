@@ -29,6 +29,28 @@
         <!-- Third party plugin JS-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
 
+        <script type="text/javascript"> 
+          	$(document).on('click', "#sendMessageButton", function() {
+		// Reset the form
+		document.getElementById('contactForm').reset();
+	});
+
+	(function() {
+		'use strict';
+		window.addEventListener('load', function() {
+			// Get our form's submit and modify the behaviour to prevent a submit and allow for download
+			var form = document.getElementById('CustomizationForm')
+			form.addEventListener('submit', function(event) {
+				event.preventDefault();
+				event.stopPropagation();
+				if (form.checkValidity() === true) {
+					// Call our process script
+				}
+				form.classList.add('was-validated');
+			}, false);
+		}, false);
+	})();
+        </script>
     <!--
       Notice the use of %PUBLIC_URL% in the tags above.
       It will be replaced with the URL of the `public` folder during the build.
