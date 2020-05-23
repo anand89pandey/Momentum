@@ -29,7 +29,7 @@ function App() {
         <Route exact path="/momentum/promod/portfolio" component={Portfolio} />
 
         <Route exact path="/momentum/promod/about" component={About} />
-        <Route exact path="/momentum/promod/team" component={Team} />
+        {/* <Route exact path="/momentum/promod/team" component={Team} /> */}
         <Route exact path="/momentum/promod/contact" component={Contact} />
         <Route exact path="/momentum/promod/footwear" component={Footwear} />
         <Route exact path="/momentum/promod/bag" component={Bag} />
