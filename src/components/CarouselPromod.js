@@ -1,7 +1,9 @@
 import React from "react";
 import { MDBCarousel, MDBCarouselInner, MDBCarouselItem, MDBView, MDBContainer } from
 "mdbreact";
-import sample3 from '../assets/img/carousel/banner2.png'
+import sample1 from '../assets/img/carousel/banner3.png'
+import sample2 from '../assets/img/carousel/banner4.png'
+import sample3 from '../assets/img/carousel/banner5.png'
 import { Link } from "react-router-dom";
 
 function CarouselPromod() {
@@ -16,10 +18,10 @@ function CarouselPromod() {
                 </ol>
                 <div className="carousel-inner" role="listbox">
                     <div className="carousel-item active">
-                        <img className="d-block img-fluid" src={sample3} alt="First slide" />
+                        <img className="d-block img-fluid" src={sample1} alt="First slide" />
                     </div>
                     <div className="carousel-item">
-                        <img className="d-block img-fluid width:100% height:auto" src={sample3} alt="Second slide" />
+                        <img className="d-block img-fluid width:100% height:auto" src={sample2} alt="Second slide" />
                     </div>
                     <div className="carousel-item">
                         <img className="d-block img-fluid" src={sample3} alt="Third slide" />

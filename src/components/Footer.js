@@ -16,11 +16,38 @@ function Footer() {
         //     </div>
         // </footer>
         // </div>
-        <div className="footer-copyright text-center py-3">
-        <MDBContainer fluid>
-          &copy; {new Date().getFullYear()} Copyright: <a href=""> Promod India </a>
-        </MDBContainer>
-      </div>
+      //   <div className="footer-copyright text-center py-3">
+      //   <MDBContainer fluid>
+      //     &copy; {new Date().getFullYear()} Copyright: <a href=""> Parmod India </a>
+      //   </MDBContainer>
+      // </div>
+
+      <footer class="page-footer font-small unique-color-dark pt-4">
+
+  
+  <div class="container">
+
+    
+    <ul class="list-unstyled list-inline text-center py-2">
+      <li class="list-inline-item">
+        <h5 class="mb-1">Created by Anand (anand.89pandey@gmail.com)</h5>
+      </li>
+      
+      {/* <li class="list-inline-item">
+        <a href="#!" class="btn btn-outline-white btn-rounded">Sign up!</a>
+      </li> */}
+    </ul>
+    
+
+  </div>
+  
+  <div class="footer-copyright text-center py-3">© 2020 Copyright:
+    <a href="/"> ParmodIndia</a>
+  </div>
+  
+
+</footer>
+
     )
 }
 

@@ -11,7 +11,7 @@ function About() {
                 </div>
                 <div>
                     <h2 style={{fontWeight: 'bold'}}>Company profile</h2> <br />
-                    <p1>We are PROMOD INDIA, an export house of Apparels & Fashion accessories.</p1>
+                    <p1>We are PARMOD INDIA, an export house of Apparels & Fashion accessories.</p1>
                     <p2>We are serving the various fashion brands and retail in USA and European countries with our
                         customer's satisfaction.
                     </p2> <br /> <br/>

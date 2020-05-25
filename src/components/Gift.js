@@ -96,7 +96,7 @@ class Gift extends React.Component {
               nextSrc={images[(photoIndex + 1) % images.length]}
               prevSrc={images[(photoIndex + images.length - 1) % images.length]}
               imageTitle={photoIndex + 1 + "/" + images.length}
-              imageCaption={"Style No. - HC2020-" + (photoIndex +1)}
+              // imageCaption={"Style No. - HC2020-" + (photoIndex +1)}
               onCloseRequest={() => this.setState({ isOpen: false })}
               onMovePrevRequest={() =>
                 this.setState({

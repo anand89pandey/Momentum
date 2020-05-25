@@ -68,7 +68,7 @@ export class Contact extends Component {
               className="contact_form_class"
             >
               <MDBRow>
-              <MDBCol lg="7" className="lg-0 mb-4">
+              <MDBCol lg="12" className="lg-0 mb-4">
               <div className="row align-items-stretch mb-5">
                 <div className="col-md-6">
                   <div className="form-group">
@@ -140,46 +140,6 @@ export class Contact extends Component {
                   Send Message
                 </button>
               </div>
-              </MDBCol>
-              <MDBCol lg="5">
-
-              <div
-          id="map-container"
-          className="rounded z-depth-1-half map-container"
-          style={{ height: "400px"}}
-        >
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.7034972755846!2d77.45450386508205!3d28.608670532427322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5b30766f1857ec32!2sAjnara%20Le%20Garden%20-%20Q!5e0!3m2!1sen!2sin!4v1590005731698!5m2!1sen!2sin" 
-title="testing"
-width="100%"
-            height="100%"
-            frameBorder="0"
-            style={{ border: 1 }} />
-
-        </div>
-        <br />
-        <MDBRow className="text-center">
-          <MDBCol md="4">
-            <MDBBtn tag="a" floating color="blue" className="accent-1">
-              <MDBIcon icon="map-marker-alt" />
-            </MDBBtn>
-            <p style={{color: 'red'}}>New York, 94126</p>
-            <p className="mb-md-0" floating color="blue" style={{color: 'red'}}>United States</p>
-          </MDBCol>
-          <MDBCol md="4">
-            <MDBBtn tag="a" floating color="blue" className="accent-1">
-              <MDBIcon icon="phone" />
-            </MDBBtn>
-            <p style={{color: 'red'}}>+ 01 234 567 89</p>
-            <p className="mb-md-0" style={{color: 'red'}}>Mon - Fri, 8:00-22:00</p>
-          </MDBCol>
-          <MDBCol md="4">
-            <MDBBtn tag="a" floating color="blue" className="accent-1">
-              <MDBIcon icon="envelope" />
-            </MDBBtn>
-            <p style={{color: 'red'}}>info@gmail.com</p>
-            <p className="mb-md-0" style={{color: 'red'}}>sale@gmail.com</p>
-          </MDBCol>
-        </MDBRow>
               </MDBCol>
               </MDBRow>
             </form>

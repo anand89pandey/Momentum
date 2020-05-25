@@ -2,7 +2,7 @@ import React from 'react'
 import onethum from '../assets/img/background_images/footwear4.jpeg'
 import twothumb from '../assets/img/background_images/bag.jpeg'
 import threethumb from '../assets/img/background_images/ear_rings.jpeg'
-import fourthumb from '../assets/img/background_images/handicraft.jpeg'
+import fourthumb from '../assets/img/background_images/gifts.png'
 import fivethumb from '../assets/img/background_images/masks.jpeg'
 
 import { Link, Route, BrowserRouter as Router } from 'react-router-dom'
@@ -65,7 +65,7 @@ function Portfolio() {
                                 {/* </a> */}
                                 </Link>
                             <div className="portfolio-caption">
-                                <div className="portfolio-caption-heading">Ear Rings</div>
+                                <div className="portfolio-caption-heading">Fashion Apparel</div>
                             </div>
                             
                         </div>
