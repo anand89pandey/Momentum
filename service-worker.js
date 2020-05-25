@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Momentum/precache-manifest.7622735d63358e3c542e2f5c8a11a91c.js"
+  "/Momentum/precache-manifest.d546c4b092e4787078160688cc10b2b3.js"
 );
 
 self.addEventListener('message', (event) => {

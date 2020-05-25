@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Momentum/static/css/main.0db775ca.chunk.css",
-    "main.js": "/Momentum/static/js/main.4fddbb0b.chunk.js",
-    "main.js.map": "/Momentum/static/js/main.4fddbb0b.chunk.js.map",
+    "main.js": "/Momentum/static/js/main.61f4a1cb.chunk.js",
+    "main.js.map": "/Momentum/static/js/main.61f4a1cb.chunk.js.map",
     "runtime-main.js": "/Momentum/static/js/runtime-main.dc3b08e6.js",
     "runtime-main.js.map": "/Momentum/static/js/runtime-main.dc3b08e6.js.map",
     "static/css/2.df029189.chunk.css": "/Momentum/static/css/2.df029189.chunk.css",
-    "static/js/2.d8dc30dd.chunk.js": "/Momentum/static/js/2.d8dc30dd.chunk.js",
-    "static/js/2.d8dc30dd.chunk.js.map": "/Momentum/static/js/2.d8dc30dd.chunk.js.map",
+    "static/js/2.b23a8ad0.chunk.js": "/Momentum/static/js/2.b23a8ad0.chunk.js",
+    "static/js/2.b23a8ad0.chunk.js.map": "/Momentum/static/js/2.b23a8ad0.chunk.js.map",
     "index.html": "/Momentum/index.html",
-    "precache-manifest.7622735d63358e3c542e2f5c8a11a91c.js": "/Momentum/precache-manifest.7622735d63358e3c542e2f5c8a11a91c.js",
+    "precache-manifest.d546c4b092e4787078160688cc10b2b3.js": "/Momentum/precache-manifest.d546c4b092e4787078160688cc10b2b3.js",
     "service-worker.js": "/Momentum/service-worker.js",
     "static/css/2.df029189.chunk.css.map": "/Momentum/static/css/2.df029189.chunk.css.map",
     "static/css/main.0db775ca.chunk.css.map": "/Momentum/static/css/main.0db775ca.chunk.css.map",
-    "static/js/2.d8dc30dd.chunk.js.LICENSE.txt": "/Momentum/static/js/2.d8dc30dd.chunk.js.LICENSE.txt",
+    "static/js/2.b23a8ad0.chunk.js.LICENSE.txt": "/Momentum/static/js/2.b23a8ad0.chunk.js.LICENSE.txt",
     "static/media/1.png": "/Momentum/static/media/1.8d1df3d6.png",
     "static/media/1.jpeg": "/Momentum/static/media/1.6d62f016.jpeg",
     "static/media/1.JPG": "/Momentum/static/media/1.c525e39d.JPG",
@@ -282,11 +282,13 @@
     "static/media/TFM-20209.jpg": "/Momentum/static/media/TFM-20209.42ed1168.jpg",
     "static/media/mdb.css": "/Momentum/static/media/arrow_right.8ef6a08c.svg",
     "static/media/bag.jpeg": "/Momentum/static/media/bag.2078bb0b.jpeg",
-    "static/media/banner2.png": "/Momentum/static/media/banner2.844bd0e7.png",
+    "static/media/banner3.png": "/Momentum/static/media/banner3.1f1067d6.png",
+    "static/media/banner4.png": "/Momentum/static/media/banner4.0afa3d1e.png",
+    "static/media/banner5.png": "/Momentum/static/media/banner5.a8436908.png",
     "static/media/ear_rings.jpeg": "/Momentum/static/media/ear_rings.0258852a.jpeg",
     "static/media/all.min.css": "/Momentum/static/media/fa-solid-900.ec763292.svg",
     "static/media/footwear4.jpeg": "/Momentum/static/media/footwear4.3d8b5501.jpeg",
-    "static/media/handicraft.jpeg": "/Momentum/static/media/handicraft.532d7cd2.jpeg",
+    "static/media/gifts.png": "/Momentum/static/media/gifts.871f29eb.png",
     "static/media/kaka.jpg": "/Momentum/static/media/kaka.cb88f274.jpg",
     "static/media/logo.svg": "/Momentum/static/media/logo.5d5d9eef.svg",
     "static/media/styles.css": "/Momentum/static/media/map-image.f40ed5b1.png",
@@ -296,8 +298,8 @@
   "entrypoints": [
     "static/js/runtime-main.dc3b08e6.js",
     "static/css/2.df029189.chunk.css",
-    "static/js/2.d8dc30dd.chunk.js",
+    "static/js/2.b23a8ad0.chunk.js",
     "static/css/main.0db775ca.chunk.css",
-    "static/js/main.4fddbb0b.chunk.js"
+    "static/js/main.61f4a1cb.chunk.js"
   ]
 }
