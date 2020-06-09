@@ -30,7 +30,7 @@ function Footer() {
     
     <ul class="list-unstyled list-inline text-center py-2">
       <li class="list-inline-item">
-        <h5 class="mb-1">Created by Anand (anand.89pandey@gmail.com)</h5>
+        <h5 class="mb-1">Created by Sonali (sonali.isfreelancing@gmail.com)</h5>
       </li>
       
       {/* <li class="list-inline-item">
