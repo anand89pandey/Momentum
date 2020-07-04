@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Momentum/static/css/main.0db775ca.chunk.css",
-    "main.js": "/Momentum/static/js/main.fa448823.chunk.js",
-    "main.js.map": "/Momentum/static/js/main.fa448823.chunk.js.map",
+    "main.js": "/Momentum/static/js/main.dfcfe1cf.chunk.js",
+    "main.js.map": "/Momentum/static/js/main.dfcfe1cf.chunk.js.map",
     "runtime-main.js": "/Momentum/static/js/runtime-main.dc3b08e6.js",
     "runtime-main.js.map": "/Momentum/static/js/runtime-main.dc3b08e6.js.map",
     "static/css/2.df029189.chunk.css": "/Momentum/static/css/2.df029189.chunk.css",
     "static/js/2.b23a8ad0.chunk.js": "/Momentum/static/js/2.b23a8ad0.chunk.js",
     "static/js/2.b23a8ad0.chunk.js.map": "/Momentum/static/js/2.b23a8ad0.chunk.js.map",
     "index.html": "/Momentum/index.html",
-    "precache-manifest.b19c2f34fcff98b277bfe1b2bdf9efd0.js": "/Momentum/precache-manifest.b19c2f34fcff98b277bfe1b2bdf9efd0.js",
+    "precache-manifest.76364a8b974e8fde218c9d430c9d6f76.js": "/Momentum/precache-manifest.76364a8b974e8fde218c9d430c9d6f76.js",
     "service-worker.js": "/Momentum/service-worker.js",
     "static/css/2.df029189.chunk.css.map": "/Momentum/static/css/2.df029189.chunk.css.map",
     "static/css/main.0db775ca.chunk.css.map": "/Momentum/static/css/main.0db775ca.chunk.css.map",
@@ -293,13 +293,13 @@
     "static/media/logo.svg": "/Momentum/static/media/logo.5d5d9eef.svg",
     "static/media/styles.css": "/Momentum/static/media/map-image.f40ed5b1.png",
     "static/media/masks.jpeg": "/Momentum/static/media/masks.d9a5d2b0.jpeg",
-    "static/media/promodIndia.jpg": "/Momentum/static/media/promodIndia.ff23e719.jpg"
+    "static/media/newPromodIndia.PNG": "/Momentum/static/media/newPromodIndia.26abdaee.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.dc3b08e6.js",
     "static/css/2.df029189.chunk.css",
     "static/js/2.b23a8ad0.chunk.js",
     "static/css/main.0db775ca.chunk.css",
-    "static/js/main.fa448823.chunk.js"
+    "static/js/main.dfcfe1cf.chunk.js"
   ]
 }
