@@ -1,5 +1,5 @@
 import React from 'react'
-import promodindia from '../assets/logo/promodIndia.jpg'
+import promodindia from '../assets/logo/newPromodIndia.PNG'
 import { Link,NavLink } from 'react-router-dom';
 
 
